@@ -1,5 +1,7 @@
 # Betting Example
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/9349c820-a282-4bba-8d72-818cef173ddc/deploy-status)](https://app.netlify.com/sites/psmolinski-betting-example/deploys)
+
 ## Installing example
 - Clone repository
 - Use `npm install` or `yarn install`
@@ -17,3 +19,6 @@ Use `npm run build` or `yarn build`
 - [Prettier](https://github.com/prettier/prettier) for beautiful code 🎆
 - [Chakra Ui](https://github.com/chakra-ui/chakra-ui) for beautiful components 🖌
 - [React Query](https://github.com/tannerlinsley/react-query) to keep fetching clean 📏
+
+## Preview
+Visit [THIS](https://psmolinski-betting-example.netlify.app/) to see app in motion
